@@ -1,1 +1,2 @@
 This is my first file.
+This line of text is being used to learn how to merge branches
