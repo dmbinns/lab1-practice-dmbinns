@@ -1,0 +1,2 @@
+f42af8a added git ignore file
+3d7685a Add file2.txt
