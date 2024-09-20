@@ -100,5 +100,3 @@
   188  git pull
   189  git log --oneline > gitlogb.txt
   190  history | grep git > historyb.txt
-  191  git log --oneline > gitlog.txt
-  192  history | grep git > history.txt
